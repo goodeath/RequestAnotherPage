@@ -155,7 +155,7 @@ function()
 			
 		};
 
-		window.FixTopBar = this;
+		window.Rap = this;
 
 	}()
 
