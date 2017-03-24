@@ -4,6 +4,6 @@ Did you want request part of a page, and insert in another in any position? This
 
 - Instructions
 
-Set Rap.id = { Div id of request page }
-Set Rap.url = { Url page that you wants get }
-Call Rap.initialize() To starts script
+Set <b>Rap.id</b> = { Div id of request page }<br/>
+Set <b>Rap.url</b> = { Url page that you wants get }<br/>
+Call <b>Rap.initialize()</b> To starts script.<br/>
